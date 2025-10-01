@@ -22,5 +22,5 @@ Enthusiastic about developing immersive gameplay experiences by bridging the gap
 - Quaternions: a C++ library that implements various useful functions to manage quaternions
 - Physics Programming: a physics based maze made in Unreal Engine
 - FMOD Wrapper: a C++ library that wraps some of the functionalities of FMOD
-- <a href="https://gitlab.com/mastergamedev-vr/student-2425/gameengineprogramming/stefano_gismano/">3D Platform: a 3D platform game made in Unreal Engine.</a>
+- 3D Platform: a 3D platform game made in Unreal Engine.
 - <a href="https://mickael-ordine.itch.io/soapoon">Soapoon: a small PvP game made in 48 hours for the Global Game Jam 2025</a>
