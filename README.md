@@ -12,7 +12,7 @@ Enthusiastic about developing immersive gameplay experiences by bridging the gap
 
 ### Tools
 
-<img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/-Blender-333333?style=for-the-badge&logo=blender"> <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=fff">
+<img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/-Blender-333333?style=for-the-badge&logo=blender"> <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=fff"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff">
 
 # Projects
 
