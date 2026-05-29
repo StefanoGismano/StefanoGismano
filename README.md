@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Stefano Gismano
 
-Junior computer scientist with experience in IT consulting interested in applying his skills to the game development field as a technical game designer. 
+Junior game developer interested in applying his skills as a technical game designer. 
 
 Enthusiastic about developing immersive gameplay experiences by bridging the gap between technology and art.
 
@@ -16,11 +16,12 @@ Enthusiastic about developing immersive gameplay experiences by bridging the gap
 
 # Projects
 
-- UniversityProjects: a collection of the main projects I made while attending the University of Torino
+- 3D Platform: a 3D platform game made in Unreal Engine.
 - Arkanoid Clone: a clone of the game Arkanoid made in C++ using DirectX 11
 - Pang Clone: a clone of the game Pang made in Unity
 - Quaternions: a C++ library that implements various useful functions to manage quaternions
 - Physics Programming: a physics based maze made in Unreal Engine
 - FMOD Wrapper: a C++ library that wraps some of the functionalities of FMOD
-- 3D Platform: a 3D platform game made in Unreal Engine.
+- Goetia: a horror tabletop RPG that forces players to make difficult moral choices
 - <a href="https://mickael-ordine.itch.io/soapoon">Soapoon: a small PvP game made in 48 hours for the Global Game Jam 2025</a>
+- UniversityProjects: a collection of the main projects I made while attending the University of Torino
